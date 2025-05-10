@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=sun0225SUN&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
 
 
-————————————————————————
+
 
 
 
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   <div align="center">
     <a href=""><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
     <a href=""><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
-    <a href="[https://space.bilibili.com/448488855](https://space.bilibili.com/3546769331850067?spm_id_from=333.788.0.0)/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+    <a href=""><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <a href=""><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
     <!-- visitor statistics logo 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=EatFans&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/steven.png" />
+
 
 <p>&emsp;&emsp;你好啊！我是星雅。</p>
 <p>&emsp;&emsp;字节为墨，代码筑城。</p>
